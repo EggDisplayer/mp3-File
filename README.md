@@ -12,34 +12,8 @@
 <p align="center">
 <a 
 
-####
-#### Project Lucia By SenR
-<a href="https://github.com/SenRyhn"><img title="SenR" src="https://img.shields.io/badge/Visit Me-h?color=black&style=for-the-badge&logo=GitHub"></a>
-
-#### SETUP
-
-Fork This Repo
-    <br>
-<a href="https://github.com/EggDisplayer/Lucia-Project/fork"><img title="Fork LP" src="https://img.shields.io/badge/> Fork Here <-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ---
-### Deploy On Codespace
-
-<a href="https://github.com/codespaces/new"><img title="ABHISHEK-SER Deploy CodeSpace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode"></a>
-
----
-### Deploy Railway
-
-(You need 6 month old github account to deploy on railway)
-
-<a href="https://railway.app/new"><img title="LP Deploy on Railway" src="https://img.shields.io/badge/Deploy On Railway-h?color=black&style=for-the-badge&logo=Railway"></a>
-
----
-### Railway Tutorial
-
-<a href="https://youtu.be/2Eqmo8lzLPU?si=zSdAvrAm3ji22I6t"><img title="Railway Tutorial" src="https://img.shields.io/badge/RAILWAY TUTORIAL-h?color=black&style=for-the-badge&logo=YouTube"></a>
-
-----
 
 ## Support
 
